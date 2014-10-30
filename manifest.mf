@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/junit-4.10.jar
+Main-Class: arrayrotation.Main
